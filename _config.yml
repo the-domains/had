@@ -1,0 +1,28 @@
+name: HAD
+favicon: null
+layout_spectrum: 0.6690423900727183
+typography_spectrum: 0.963662443915382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8578242310322821
+  lightness: 0.7345379299949855
+  saturation: 0.7684030525851995
+  rhythmicContrast: 0.49193195393308997
+purpose: []
